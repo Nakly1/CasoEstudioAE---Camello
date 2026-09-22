@@ -114,23 +114,21 @@ Estrategia de **diferenciación enfocada en un nicho hiperlocal**, apalancada en
 
 ## 7. Equipo de trabajo
 
-Este caso de estudio fue desarrollado de forma conjunta por dos integrantes, que se reparten los roles del equipo de Arquitectura Empresarial definidos en el Paso 3 de la Fase Preliminar.
+Este caso de estudio fue desarrollado de forma conjunta por:
 
-| Integrante | Roles en el equipo de arquitectura |
-| --- | --- |
-| **Marlon Kerguelen** | Arquitecto de Soluciones · Arquitecto de Datos |
-| **Nakly Contreras** | Arquitecto Empresarial · Arquitecto de Seguridad |
+- **Marlon Kerguelen**
+- **Nakly Contreras** — Desarrollo Full Stack
 
-Al tratarse de un equipo reducido, los roles se asumen de manera compartida y cada artefacto tiene un integrante responsable de su elaboración y otro de su revisión, mediante revisión cruzada antes de publicarlo en este repositorio.
+La distribución formal de los roles del equipo de Arquitectura Empresarial (Arquitecto Empresarial, de Soluciones, de Datos y de Seguridad) está documentada en el Paso 3 de la Fase Preliminar. Al tratarse de un equipo reducido, los roles se asumen de manera compartida y cada artefacto tiene un integrante responsable de su elaboración y otro de su revisión, mediante revisión cruzada antes de publicarlo en este repositorio.
 
 ## 8. Estructura del repositorio
 
 ```
 .
 ├── README.md
-├── Taller1/
-│   └── Taller_1_CamelloYa.docx        Construccion del caso de negocio
-└── Preliminar/                         Fase Preliminar del ADM (Taller #2)
+├── Taller1/                            Construccion del caso de negocio
+│   └── Taller_1_CamelloYa.docx
+└── Taller2_Preliminar/                 Fase Preliminar del ADM
     ├── 01_alcance_enterprise.docx      Alcance del Enterprise
     ├── 02_gobernanza_frameworks.docx   Frameworks de gobernanza y soporte
     ├── 03_equipo_arquitectura.docx     Equipo de Arquitectura Empresarial
